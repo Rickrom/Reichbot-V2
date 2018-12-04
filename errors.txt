@@ -1,0 +1,6 @@
+----====={Errors}====----
+
+Error 101: iemand probeerd iets af te spelen maar hij heeft nog niks toegevoegd.
+Error 401: reich.leave is geen publiek command
+Error 501: reich.reboot is geen publiek command
+Error 601: De bot kan niet connecten met YT
