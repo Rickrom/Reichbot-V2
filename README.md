@@ -1,4 +1,4 @@
-# discord van rick.
+# discord Bot van Reich.
 tweede opzet 
 
 # errors:
@@ -8,7 +8,7 @@ invalid YouTube link: null.
 
 #==========><============3
 
-#errorcodes.
+# errorcodes.
 
 # 101,
 
