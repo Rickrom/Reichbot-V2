@@ -1,7 +1,7 @@
-#discord van rick.
+# discord van rick.
 tweede opzet 
 
-#errors:
+# errors:
 
 invalid YouTube link: null.
 ((node:28351) DeprecationWarning: TextChannel#sendMessage: use TextChannel#send instead)
@@ -10,9 +10,9 @@ invalid YouTube link: null.
 
 #errorcodes.
 
-#101,
+# 101,
 
-#401
+# 401
 bot.leave is geen publiek command
-#501
+# 501
 bot reboot is geen publiek command
