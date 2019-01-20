@@ -1,7 +1,7 @@
 {
-  "name": "ohgodmusicbot",
-  "version": "1.0.0",
-  "description": "A v11 Discord.JS music bot in 100 lines or less",
+  "name": "Das Reich",
+  "version": "2.0.2",
+  "description": "Das Reich bot for all your Reich",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
